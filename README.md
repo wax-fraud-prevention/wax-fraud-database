@@ -24,7 +24,7 @@ There are two main ways to use this database.
 > Load the json files directly from this repository in your application.  
 This is recommended as it will always give you the most up-to-date information.
 >
-> https://raw.githubusercontent.com/wax-fraud-prevention/wax-fraud-database/main/wallets.json  
+> https://raw.githubusercontent.com/wax-fraud-prevention/wax-fraud-database/main/accounts.json  
 > https://raw.githubusercontent.com/wax-fraud-prevention/wax-fraud-database/main/collections.json
 
 > ### Option 2

@@ -1,8 +1,8 @@
-## Add wallet or collection to database
+## Add account or collection to database
 
 - [ ] I have read the [`README`](README.md) and understand how to add an account or collection to the database.
 
-### Add data to [`wallets.json`](wallets.json) or [`collections.json`](collections.json)
+### Add data to [`accounts.json`](accounts.json) or [`collections.json`](collections.json)
 
 ```json
 {
