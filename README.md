@@ -32,6 +32,18 @@ This is recommended as it will always give you the most up-to-date information.
 This requires you to keep the json files updated manually in your application.
 
 
+## Example usage
+### JavaScript
+```javascript
+const account = 'waxdropbybit';
+const fraudAccounts = await fetch('https://raw.githubusercontent.com/wax-fraud-prevention/wax-fraud-database/main/accounts.json')
+  .then((response) => response.json());
+const found = fraudAccounts.find((a) => a.name === account);
+if (found) {
+  console.log(`${found.name} has been flagged as fraudulent. Please use caution when interacting with this account. Reason: ${found.reason}`);
+}
+```
+
 ## How do I add an account or collection?
 
 To add an account or collection to the database, you can create a pull request with the following information added to the appropriate json file.
