@@ -1,10 +1,2357 @@
 [
   {
     "name": "waxdropbybit",
+    "level": "danger",
     "reason": "Scammer operating pig slaughter scam"
   },
   {
     "name": "bybitwaxhunt",
+    "level": "danger",
     "reason": "Scammer operating pig slaughter scam"
+  },
+  {
+    "name": "acceptoffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "activeoffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "aiomicmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "alomicmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "announcesale",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "assertatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "assistantbuy",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atocmimarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atocmimarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomccmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomchubdrop",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomchuddrop",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomchudrop",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomcihubeos",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomcimarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomcimarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomcinarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomcioffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiamarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiamarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiamartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomibmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicactive",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicalerts",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicamrket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicassert",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicbuynft",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicbuynow",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicbuyoff",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicbuypay",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicbuywax",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicbysale",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicchecks",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicdefend",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiceoswax",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicfuture",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomichubbiz",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomichubdev",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomichubgas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomichubinc",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomichubins",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomichuboff",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomichubsqx",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomichubusa",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicinform",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicinvite",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiclounge",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmaerkt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmaiket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmakret",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmanket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmapket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmarekt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmaretk",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmarfet",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmarkat",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmarxet",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmerakt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmerkat",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmerkta",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmotion",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmqrket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicmraket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicnarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicnftbuy",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicofferx",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicoffice",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicoption",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicpaybuy",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicpaywax",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicrebate",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicrecord",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicreject",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicreview",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicsecure",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicspeech",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicsupply",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicverify",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicwaxeos",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicwaxhob",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicwaxhub",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicwaxnet",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomicwaxpay",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiemarekt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiemarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiemarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiemartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomigmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiimarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomilmartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomimmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomimmarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomimmartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atominmarekt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atominmaretk",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atominmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atominmarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atominmartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiomarekt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiomarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiomarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiomartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomipmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiqmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomirmarekt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomirmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomirmarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomirmartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomismarekt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomismarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomismartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomitmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomitmarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomitmartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiumarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomiumarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomivmarekt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomivmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomivmartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomixmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomizmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomizmartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomlchubdro",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomlcmarekt",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomlcmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomlcmarkte",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomlcmartek",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomlcmartke",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomlcoffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atomlomartek",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atonicmaiket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atonicmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "atonicnarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "buyassistant",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "buyatomicnft",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "buynewoffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "buynftatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "checksatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "confirmdeals",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "confirmoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "confirmtrade",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "dealsconfirm",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "defendatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "futureatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "giftfriendly",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "havenewdeals",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "havenewoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "havenewtrade",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "inviteatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketbuyer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketp1ace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketpiace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketpiacs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketpiaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketplacs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketplaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketplcae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketplcea",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketpleca",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mareketsales",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektaplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektcplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marekteoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marekteplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marekteplaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektesales",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektiplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektoffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektp1acse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektp1aece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektp1asce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektp1ceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektp1eace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektp1eces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpaices",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpalces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpiacae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpiacee",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpiaces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpiacse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpiaece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpiasce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpiceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpieace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpiecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpieces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektplacae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektplacee",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektplaces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektplacse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektplaece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektplasce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektplceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpleace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektplecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektpleces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektrplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektsdeals",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektsoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marektsplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkeoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkepiace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkeplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkeplacs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkeplaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkepleca",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkpiacae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkpiacee",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkpiecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkplacae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkplacee",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "maretkplecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markertplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketaplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketaplcae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketaplcea",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketcpiace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketcplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketebuyer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketeoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketeplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketeplacs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketeplaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketeplcae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketeplcea",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketepleca",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markethelper",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketiplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketmoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketoplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketp1aces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketp1acse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketp1asce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketp1caes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketp1ceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketp1ecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpaices",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpalace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpalces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpalece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpelace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpiacae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpiacee",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpiaces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpiacse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpiance",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpiasce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpicaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpiceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpiecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplaace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplacae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplacce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplacse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplaece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplaecs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplance",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplasce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplcaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpleace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketplecas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketpleces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketrbuyer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketroffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketrpiace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketrplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketrplcae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketsadmin",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketsbuyer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketsdeals",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketsoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketspiace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketsplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketsplacs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketsplaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketsplcae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketsplcea",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketspleca",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteaplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktecplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteiplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteoffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1acas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1aces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1acse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1aece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1asce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1caes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1ceae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1ceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1eace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktep1ecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepaices",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepaiecs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepalces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepalecs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiacae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiacas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiacee",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiaces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiacse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiaece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiasce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepicaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiceae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepieace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepiecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplacae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplacas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplacee",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplaces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplacse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplaece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplaecs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplasce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplcaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplceae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktepleace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markteplecas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "markterplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktesdeals",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktesoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marktesplace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martekp1aces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martekplaces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martekplaecs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martekplcaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeoffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1acas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1aces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1acse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1aece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1asce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1caes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1ceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1eace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1ecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1ecas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkep1eces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepaices",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepaiecs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepalces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepalecs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepiacse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepiaece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepiasce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepicaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepieace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepiecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepiecas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepieces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplacas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplaces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplacse",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplaece",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplaecs",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplasce",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplcaes",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepleace",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplecae",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkeplecas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepleces",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "newbuyoffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "newoffersale",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "newsaleoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "nftatomicbuy",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "nftbuyatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "nftoffersale",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "nftsaleoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offerconfirm",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offerdetails",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offernewsale",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offernftsale",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offersaccept",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offersalenft",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offersatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offersforyou",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offershelper",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offersmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "offertoyours",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "officialdeal",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "officialliwah",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "officiallwax",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "officialywax",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "optionatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "payatomichub",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "recordatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "rejectatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "reviewatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "salebyatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "salenewoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "salenftoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "saleoffernft",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "saleyournfts",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "secureatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "supportdeals",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "supportoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "supporttrade",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "todaycollect",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "tradeconfirm",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "tradesforyou",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "verifyatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxatomcihub",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxmarkethub",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "youhavedeals",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "youhaveoffer",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "youhavetrade",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "yourtooffers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "youtoconfirm",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "loungeatomic",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "martkepiceas",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "marketoffice",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "helpermarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "buynowmarket",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "binancebywax",
+    "level": "danger",
+    "reason": "Impersonating exchange account"
+  },
+  {
+    "name": "waxptestnet1",
+    "level": "danger",
+    "reason": "Scammer operating pig slaughter scam"
+  },
+  {
+    "name": "waxptestnet2",
+    "level": "danger",
+    "reason": "Scammer operating pig slaughter scam"
+  },
+  {
+    "name": "waxptestnet3",
+    "level": "danger",
+    "reason": "Scammer operating pig slaughter scam"
+  },
+  {
+    "name": "waxptestnet4",
+    "level": "danger",
+    "reason": "Scammer operating pig slaughter scam"
+  },
+  {
+    "name": "waxptestnet5",
+    "level": "danger",
+    "reason": "Scammer operating pig slaughter scam"
+  },
+  {
+    "name": "waxptestnets",
+    "level": "danger",
+    "reason": "Scammer operating pig slaughter scam"
+  },
+  {
+    "name": "eosonsupport",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "gamebrawlers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxpbrawlers",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxpongaming",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "brawl4allwax",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "brawlerswaxp",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "brawlersgame",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxgamechain",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxnftestnet",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxpgameonly",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxgamesonly",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxpweb3only",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxpnftsonly",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxpnftsmain",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mainnetswaxp",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxtosupport",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxgosupport",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxbysupport",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxbisupport",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxpsupports",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxonsupport",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxbybytmain",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxbybitmain",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxponbybits",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxpmainnets",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxnetbybits",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "mainnetonwax",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxgotestnet",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "testnetonwax",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "testnetwaxby",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "testnetwaxbi",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxglobalhub",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxlocalnets",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxptestnets",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "airdropswaxp",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxpairdrops",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "testnetswaxp",
+    "level": "danger",
+    "reason": "Scam wallet"
+  },
+  {
+    "name": "waxnetworker",
+    "level": "danger",
+    "reason": "Scam wallet"
   }
 ]
