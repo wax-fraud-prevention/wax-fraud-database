@@ -1,12 +1,13 @@
 # WAX Fraud Database
 
 The WAX Fraud Database is a community-driven project to track and report fraudulent accounts and collections on the WAX Blockchain.  
+
 The database is maintained by the WAX community and is open to contributions from anyone.
 
 
 ## How does this work?
 
-This repository contains json files containing the data of fraudulent accounts and collections.
+This repository provides json files containing the data of fraudulent accounts and collections.
 
 You can use these files in your application to check if an account or collection is fraudulent and the reason they are on the list.
 
