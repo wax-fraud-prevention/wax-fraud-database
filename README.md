@@ -4,6 +4,10 @@ The WAX Fraud Database is a community-driven project to track and report fraudul
 
 The database is maintained by the WAX community and is open to contributions from anyone.
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/161926701?s=300" />
+</p>
+
 
 ## How does this work?
 
