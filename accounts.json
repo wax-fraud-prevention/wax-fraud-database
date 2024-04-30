@@ -2354,4 +2354,10 @@
     "level": "danger",
     "reason": "Scam account"
   }
+  ,
+  {
+    "name": "atomicdropio",
+    "level": "danger",
+    "reason": "Discord spam and thief (sends malicious links)"
+  }
 ]
